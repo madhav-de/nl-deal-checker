@@ -38,9 +38,15 @@ Just ask Claude about a deal:
 - "Should I renew with my provider for the new phone or buy it outright?"
 - "Is €1,199 for this TV actually a good price?"
 
+## Safety
+
+- **Plain text only.** The skill is one instruction file with no scripts and no network calls of its own. Read [SKILL.md](SKILL.md) before installing; it takes about 3 minutes.
+- **Not financial or legal advice.** It helps you check a deal; the decision is yours. For disputes, see [ConsuWijzer](https://www.consuwijzer.nl).
+- **Found a security problem?** Report it privately; see [SECURITY.md](SECURITY.md).
+
 ## Contributing
 
-Shops, rules and promotions change. Pull requests with corrections or new traps are welcome.
+Shops, rules and promotions change. Corrections and new traps are welcome; see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 

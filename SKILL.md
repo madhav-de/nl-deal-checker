@@ -2,6 +2,9 @@
 name: nl-deal-checker
 description: Check whether a Dutch online deal is real before buying - the actual shop price vs comparison sites, marketplace sellers, contract vs outright cost, open-box grades, inflated "was" prices and cashback rules. Use when the user weighs a purchase at a Dutch shop or provider (Coolblue, bol, MediaMarkt, Amazon.nl, Odido, KPN, Vodafone, etc.) or asks "is this a good deal?".
 license: MIT
+metadata:
+  version: "1.0.0"
+  author: madhav-de
 ---
 
 # nl-deal-checker
